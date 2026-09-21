@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "sizes": {
     "6": 1000,
     "7": 1000,
@@ -9,7 +9,615 @@
     "11": 1000,
     "12": 1000
   },
-  "hard": 372,
-  "packs": [],
-  "files": []
+  "hard": 472,
+  "packs": [
+    {
+      "id": "v3",
+      "path": "packs/levels_v3.zip",
+      "sha256": "afbaf5e745d8c483045e263f3c1ac5a4c5a4069d2606412f520cd7e1663e3e26",
+      "size": 19203
+    }
+  ],
+  "files": [
+    {
+      "path": "Hard/level_hard_00000373.txt",
+      "sha256": "96d15686a6b3a98e17c639f925b7f67a7bc64f5c5b289b7267791247b3a3d237",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000445.txt",
+      "sha256": "e141991e72f49e71a92179e705752faa511b72c801491a45c4fa598422bc00ca",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000444.txt",
+      "sha256": "bd78d312aa39eeb21800ef1e38cec020bf667c4b3006d83ecc4d6016e7c29b64",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000443.txt",
+      "sha256": "c31b11e9360d08957c6a33b314cc444b319f744a801aa97c999ba7411c3b6322",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000442.txt",
+      "sha256": "7ad7d35087bfe5c4c6f12ce6f880a063fb194448739eb2f29c22d5fff9bbbd55",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000441.txt",
+      "sha256": "432631fd1740642b57b97ace5f0c8049d19e3f32dbb85672bd9e7c02ec6d1a3d",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000440.txt",
+      "sha256": "000e1f523f5a458add8e159b0f44f30dbbd25e14ced73d9860c0eba71e77fdd6",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000439.txt",
+      "sha256": "0efe52be84ec21ba1384f692ac21c0725486f2f3a053bb5016dc853e9c447929",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000438.txt",
+      "sha256": "b6b187ff07877a621d5ce84f6bfbcc93f1d15330ea1ae4254364e006e146cb47",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000437.txt",
+      "sha256": "f1dc99fe3f952ae00d596eff9330930567b09780d35d7a61f5ca2b985cea38a8",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000436.txt",
+      "sha256": "ecaf361e8e8527ab3e9c8bdcc50753707fc3f5718d5c11fb4912a73e93abebac",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000435.txt",
+      "sha256": "2ba1517ed6765eda5c551eb54d40c070d2af9ae9c062ddd83370d8ae13ba7972",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000434.txt",
+      "sha256": "86326b13d2102a185830c8dd9aeb830200d24abc58f70bb14927cbd7cd7cd5d8",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000433.txt",
+      "sha256": "5e7c1e85e7588061649b0611bd9383c86869d9d6034225efb3928dbfe5988722",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000432.txt",
+      "sha256": "f883e7db294d7579a60b0038f474b94c36b1a30b9d0b4ab6666d58ef161443fd",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000431.txt",
+      "sha256": "a4bdd99497adcbe40a91d750fd3962262d715f4ee21b3f2871b67068c5d9633d",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000430.txt",
+      "sha256": "a17420aa8da0ba6d1900f810ea43ad7ab13dad2989938be24c8dc1f574e8f338",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000429.txt",
+      "sha256": "08604d41e3a7a134ded74189ab3f0712675cc7f2f62c5c89ae80f7f8d09a4a7a",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000428.txt",
+      "sha256": "ddd0a8fa27db74436acbf2406e3c5656256846ee48fa5b9df9854302b0879071",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000427.txt",
+      "sha256": "f2634650a3018b3b95b188759af5d3581df369048a0ee9f88fed337940615039",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000426.txt",
+      "sha256": "6f7da3149e1e8333550d002038435698a20d59c73b213972a1102c44e98945c2",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000425.txt",
+      "sha256": "45f561a26961db8bf390cc7529acb2e3f109856f70804cfac3c5f97d0b1d506f",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000446.txt",
+      "sha256": "fcba126881582ec8b51f75bc647f66d42da3b4fae4e0ac28f75db0506810777f",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000424.txt",
+      "sha256": "34a5af910f58f2796d6e83f0340244e72fd16d6a61b0d304f72855fcfa32cc3b",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000447.txt",
+      "sha256": "0324d4046a367d9565e38e1fed22b284ff5797e6fc8c5d733d8bfe215aefdb2d",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000449.txt",
+      "sha256": "34eee5abc4c098ca1dfe22319a313f8be60817ce111f2314ba1acdeb8b689812",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000470.txt",
+      "sha256": "10fedc44aa42cfdd340c96eba2e34c0888c853e14a7d484bd0d96b3b2ee73601",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000469.txt",
+      "sha256": "bb9a5153a6930771ee89be50ce2e3cbd0d6f63d93e9021c53ba0a7a83838d425",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000468.txt",
+      "sha256": "17fc63db50285c39e6b1d24c9fd1cc278092878b956afc2dc4c96e9a2c8b37f6",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000467.txt",
+      "sha256": "f1ae858ec0f09063a2186c3dcb5d6dc8de0f271aa15ec66d4d4630756c32a365",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000466.txt",
+      "sha256": "7b1dbafd735199cb0509a52d4ca2f34eab52f1e20a9858ae8f68a764eb7c74a7",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000465.txt",
+      "sha256": "0d0f62d35b69a72778bc0cb968e3016143ed5d29a9cc0d20639fee563997f616",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000464.txt",
+      "sha256": "a4f346ddf9952ea65b1e2997419b0fd9af4b3e0e72fe9520c600ee5baa8c61d4",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000463.txt",
+      "sha256": "a71466c05b9fce43a952b57e224d43ccff61428e7770045a0a8d73c0b068ae60",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000462.txt",
+      "sha256": "554565120efb61c5a2c179b2a5420fae2de9df1880af43226f97f7343285df87",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000461.txt",
+      "sha256": "42e756a434e4827270b1511f643cf4250a4230836968e5b1f5dd63d16575b3c3",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000460.txt",
+      "sha256": "b17fd27820526fa09c55260252ce65200fc1d6ccf96c2d3c352f107e07516064",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000459.txt",
+      "sha256": "3b5560f96ab83671f1395cb8450f8b6c1a3d297d80318474513e6831690b6f4f",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000458.txt",
+      "sha256": "5628893d9aef84ba34d5fd6dce00b34ace5cc7014bb9ea740a21b275ee695a35",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000457.txt",
+      "sha256": "6f899cad393397ef63d5d5e076826e5dc665333c14c61eaedf8ef6399a2cfa37",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000456.txt",
+      "sha256": "8b2482f519adb7a6da04c7a10eaa3815a3c3308275a2299674b34c6a90de50b5",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000455.txt",
+      "sha256": "346457835dee9aa0a2fb3b012456fbc6f0284c4b9453012914a0ba8d23f80d4d",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000454.txt",
+      "sha256": "3e2f09546f7ca40a046950df908437437f076dc789437f521ce0c51d05aa537f",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000453.txt",
+      "sha256": "98377da65815a50a5971ce9dc492f74eb4b6b6a8f54ba4af9ac60b75a15956eb",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000452.txt",
+      "sha256": "ae4aa1c204b79a75b6b65030b92c816c5b471d755339bffc491bcf349344dfb0",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000451.txt",
+      "sha256": "5119fdaf154dd210fbfc2b85f9ee1c7affbd7012b98d86edcc7f6231e7bfac1e",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000450.txt",
+      "sha256": "55963794e07dd8ae98f2792312969b4b118ea10955b02b126998b1594d93d62e",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000448.txt",
+      "sha256": "e4c7c2dfb6981ca12825f6d415cd159a9eed1c82267fa26f6d1e691535921613",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000423.txt",
+      "sha256": "212b04be343d612402f6bb8d9fd2dfbc8876461f9981d1b41086c2c3ce06b3bc",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000422.txt",
+      "sha256": "e77e2a8df26ef0978541c148ac6eca4b830eaa2274978f476a66f8e4cd490d3c",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000421.txt",
+      "sha256": "9bf6880138a7113816f320bc1fa1967194db68c77848a7ba4254e9e1aef24c21",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000394.txt",
+      "sha256": "076b39f4ded27aea4707cc1b21ac004fc612f144e318286707f38f5957c8b955",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000393.txt",
+      "sha256": "126ece1e55fe7ff936274b249515d4c1fe7ed18b03af4b9ce3737943919bb1eb",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000392.txt",
+      "sha256": "59747f2befbb9f11c11ba120eb0182a73a8cf4cdc7d1fc71d351656c308477ef",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000391.txt",
+      "sha256": "039a9d43596ff70b80eb9e3c25b3b5fae77a96db092209b2f512b05a1f7b00cb",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000390.txt",
+      "sha256": "a8a251b7e74a90833e981014231056b03e9ff38d055a0822068040e676a1bb90",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000389.txt",
+      "sha256": "00990627e37ff75c9e6af7b692f2abcb74e55584dd1e386c204f5cab21dc5794",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000388.txt",
+      "sha256": "955cf0cccd35571708f85fdc502db60ab9b5243dd7050f605752f4bbe5da1889",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000387.txt",
+      "sha256": "399415c8d220df7f5af8245617a6dc64d1a5aea0ec5f87bb872c5f6ff6930dd2",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000386.txt",
+      "sha256": "5c3d906eb3a47eeeed855366ad7fb9545fd855f305e8f11d65d14056ca1009b8",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000385.txt",
+      "sha256": "a71f1b7d1acf3cc7b9472561f23e221787a9a29364fc466bf8fc94222244155c",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000384.txt",
+      "sha256": "8a96c7441951baeba8c8e5c80990bdde5f3d60bdd47b20d31060aa404c54d9c4",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000383.txt",
+      "sha256": "fd214f2a6bd74068bd5d4e8e796a775ce6ca51f1cc899639504fcd313d41a507",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000382.txt",
+      "sha256": "1cd1d832c8ef45d1eb2860820fe5efeceb6581dd22aa8477c0ec92d67b9946fb",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000381.txt",
+      "sha256": "cbe414b6a9dcc3623bfe404abb605359a6197cb6818ec06c95de44f1989b79d0",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000380.txt",
+      "sha256": "259872b14f3f3d37517f53ba9ecd52d9db3be805df4773c57413076e16d6f080",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000379.txt",
+      "sha256": "cea0b48642681a3046c9c6185bb6de6210c53e57812361f1f648af569b9552d7",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000378.txt",
+      "sha256": "f9d414edddc8c7c874309240cc723724cc788dde7706b25ee418657f4ea45461",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000377.txt",
+      "sha256": "d1a47ae7c3762efabe11e12a8b54da5396a7d138129528b16ca52d8626461707",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000376.txt",
+      "sha256": "0c35b44d8e2cafa27c9e153eb65b9a4a3aa00381113358887b18bb61b19d86fa",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000375.txt",
+      "sha256": "9a51fde5852945b6e58c213b4989965cdaeb63e137022fca449c588a0c82a5fe",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000374.txt",
+      "sha256": "b1212f7e87d66797d64137c4fc66ab536f64f49becacc315096ed269657db160",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000395.txt",
+      "sha256": "f54b55a3bfd53c84931f581ff02bdc9f63be7a5f338ec877679c87aac4938707",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000396.txt",
+      "sha256": "836b4227eccd9c6b531b256b8abafe5c7b4ff70253f175ed16fd79f0f3f0076b",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000397.txt",
+      "sha256": "e1db153543b2194be38ab74a9cd8319df266823d51259459a99fae0ab5fd52e0",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000398.txt",
+      "sha256": "552664027363433354aece90b0692c598836fb23031b0178affb7b4cf5c8961c",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000420.txt",
+      "sha256": "5794b43f1272d910967065a250c085b26d3f6279c810be5ccf550a15e006aeae",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000419.txt",
+      "sha256": "c243c53afa5d246106e37c3f119bc0278eb0f0a61f0a256130578e1c993d5afc",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000418.txt",
+      "sha256": "1fd9a5cb65605a748db398f658a5f50ac0c0900e123c8577d82edb8dec789e3f",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000417.txt",
+      "sha256": "89fbc26cb43e997481d69eefe6ca17168d33f739f59b72e515506fead6ad9944",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000416.txt",
+      "sha256": "176adf37bf8814299ed5be711096dd25f5cda5ad7003d282a669882cdb779f65",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000415.txt",
+      "sha256": "b97752bc121839e74ff4e5a6dfc001e86d1d9c1c493150780c386c75fb2aff56",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000414.txt",
+      "sha256": "ae93dc2b5e96eaa9ffa0611cb6bd8db1908e50c3edfa511c41c7e2242376c46a",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000413.txt",
+      "sha256": "a6d3202523fbaa062a59353da9e3c4bf86d3c307fb4cdd69501745c2394ea98c",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000412.txt",
+      "sha256": "6d022929d07fcb9f4fe3d410b9c09491fdddcb8904c04da8ce4145e88a990b9a",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000411.txt",
+      "sha256": "3a8f99c2a8dc76dff4fc4c56eec9911daae4174ffadc7c75f1b82e1e78d7387a",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000471.txt",
+      "sha256": "512832db8a52a575c626f8b50244549416cae0d72515cc50eb957ba26059f62f",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000410.txt",
+      "sha256": "ed3e30f8f0b4b96817770d482b6453daf3428af27e3f73b3cd7207bd34ddbb7b",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000408.txt",
+      "sha256": "29de9837ae8e1053d62178b35b9d1911fa9e7a32439d0032fcd8cb95d4a37b42",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000407.txt",
+      "sha256": "952e7ddfa17485962afad5f99cc36b33ccf4955bc29afc6fd47dda7c015fe194",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000406.txt",
+      "sha256": "7e3464cfb2d10d31627563b930e4ccc54cf69fb92e6470e10b35fe923b7800a5",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000405.txt",
+      "sha256": "1e1dc78e6e37b4d07004dbe0c2e6003b49e2f38ad514a80b4b07f6e195aee1c7",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000404.txt",
+      "sha256": "0db56e76088111ef4ede4f145dc286824e4d68df337f2de215ed8c11850d09c7",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000403.txt",
+      "sha256": "54175e584a9778919541bd7c8b327c86a22ed02fa37abe96583b626f2fb71d9b",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000402.txt",
+      "sha256": "d4d6540da44532b9a155806e3401641e3609682050b04bab5f99aa90294e618b",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000401.txt",
+      "sha256": "e79d88e1594cbf04eacf7f412a6d00830fc349779a36b451c56523d41f0024a7",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000400.txt",
+      "sha256": "8aa4d4961a413232dd5b561a5be6295c8bc0eac508dd6c60ac58413b88f18ce6",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000399.txt",
+      "sha256": "85b8809d00458b69285c84278dc4737857e09d0d0b2a39ba87aedc92ca5c8bc4",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000409.txt",
+      "sha256": "dbc36797a3ec83dae99f3012eaf93ad50b3c16b4ae324360f7337ce9a6dbdc8b",
+      "size": 68,
+      "pack": "v3"
+    },
+    {
+      "path": "Hard/level_hard_00000472.txt",
+      "sha256": "b08824a14e2131630d824963173c44772da12ba93707ba96b032c68e8d1e3a66",
+      "size": 68,
+      "pack": "v3"
+    }
+  ]
 }
