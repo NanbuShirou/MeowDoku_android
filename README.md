@@ -6,6 +6,7 @@ MeowDoku 是一款以貓咪為主題的 Android 邏輯益智遊戲。玩家需�
 
 [前往 Releases 下載最新版 APK](https://github.com/NanbuShirou/MeowDoku_android/releases/latest)
 
+- 首個公開版本：v1.3.0。
 - 最低支援 Android 6.0。
 - 下載 APK 後開啟檔案，依照 Android 提示允許安裝未知來源應用程式。
 - 安裝更新前，建議保留原有 App，以免清除遊戲紀錄與設定。
@@ -37,6 +38,7 @@ MeowDoku 是一款以貓咪為主題的 Android 邏輯益智遊戲。玩家需�
 ### 高難度關卡
 
 - 提供更具挑戰性的固定關卡。
+- 啟動遊戲時會自動檢查並下載新增關卡。
 - 同樣會記錄完成進度與獲得星星數。
 
 ### 隨機關卡
@@ -68,10 +70,10 @@ MeowDoku 是一款以貓咪為主題的 Android 邏輯益智遊戲。玩家需�
 
 ## 檔案驗證
 
-`Meowdoku Android v1.2.1.apk`
+`Meowdoku Android v1.3.0.apk`
 
 ```text
-SHA-256: 1F87281C014892F4582090794B122D3ACD2E9F66424097E957D26ADCE50A3B7A
+SHA-256: 0C0158317C492102EE4B1ED93995CDB4567797E8ED7B660937A59C8DF49A66AD
 ```
 
 ## 授權說明
