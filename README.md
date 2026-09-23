@@ -81,16 +81,16 @@ MeowDoku 是一款以貓咪為主題的 Android 邏輯益智遊戲。玩家需�
 | --- | --- |
 | <img src="screenshots/STAGE1.jpg" width="320" alt="遊戲選關畫面階層"> | <img src="screenshots/STAGE2.jpg" width="320" alt="遊戲選關畫面主題變更"> |
 
-| 遊戲畫面 6×6 | 遊戲畫面 12×12 |
+| 遊戲畫面 6×6 | 遊戲畫面 10×10 |
 | --- | --- |
-| <img src="screenshots/GAME1.jpg" width="320" alt="遊戲畫面 6×6"> | <img src="screenshots/GAME2.jpg" width="320" alt="遊戲畫面 12×12"> |
+| <img src="screenshots/GAME1.jpg" width="320" alt="遊戲畫面 6×6"> | <img src="screenshots/GAME2.jpg" width="320" alt="遊戲畫面 10×10"> |
 
 ## 檔案驗證
 
 `Meowdoku.Android.v1.3.2.apk`
 
 ```text
-SHA-256: EEC95614AA82CA8B86790AB84008EE6CA25455697F4F0577289DD20E21FCE698
+SHA-256: 9BAB85C869C9353EBF42D78D3F712B555223146F11AF302930AA119EB5F0C9E9
 ```
 
 ## 授權說明
