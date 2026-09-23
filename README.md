@@ -1,4 +1,4 @@
-# MeowDoku Android
+﻿# MeowDoku Android
 
 MeowDoku 是一款以貓咪為主題的 Android 邏輯益智遊戲。玩家需要根據行、列與顏色區域的限制，找出每隻貓咪的位置。
 
@@ -67,12 +67,30 @@ MeowDoku 是一款以貓咪為主題的 Android 邏輯益智遊戲。玩家需�
 - 背景音樂曲目、音量、單曲循環與全部循環。
 - 震動、自動排除、提醒記號圖示等遊戲設定。
 
+## 遊戲畫面
+
+| 遊戲初始畫面 | 遊戲選單 |
+| --- | --- |
+| <img src="screenshots/Title.jpg" width="320" alt="遊戲初始畫面"> | <img src="screenshots/OP.jpg" width="320" alt="遊戲選單"> |
+
+| 選擇方塊風格 | 遊戲選關畫面 |
+| --- | --- |
+| <img src="screenshots/style.jpg" width="320" alt="選擇方塊風格"> | <img src="screenshots/STAGE.jpg" width="320" alt="遊戲選關畫面"> |
+
+| 遊戲選關畫面－階層 | 遊戲選關畫面－主題變更 |
+| --- | --- |
+| <img src="screenshots/STAGE1.jpg" width="320" alt="遊戲選關畫面階層"> | <img src="screenshots/STAGE2.jpg" width="320" alt="遊戲選關畫面主題變更"> |
+
+| 遊戲畫面 6×6 | 遊戲畫面 12×12 |
+| --- | --- |
+| <img src="screenshots/GAME1.jpg" width="320" alt="遊戲畫面 6×6"> | <img src="screenshots/GAME2.jpg" width="320" alt="遊戲畫面 12×12"> |
+
 ## 檔案驗證
 
 `Meowdoku.Android.v1.3.1.apk`
 
 ```text
-SHA-256: 04CA364C1B55200DCFBAB0D690CC88A194AA2E6510C4E7B933B0F05BE748A90C
+SHA-256: 87BEF9B7F50CFFA9C57F47583CEC8A21E1C44284E0373324FA82E82E3327852C
 ```
 
 ## 授權說明
